@@ -1,0 +1,28 @@
+body {
+background-color: #CEAB93;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.navbar {
+    background-color: #AD8B73;
+}
+
+footer {
+    background-color: #AD8B73;
+}
+
+#texto-footer {
+    color: #FFFBE9;
+}
+
+.feature {
+    width: 10%;
+    padding: 0.5%;
+    display: inline-block;
+    font-size: 30px;
+    color: #CEAB93;
+}
+
